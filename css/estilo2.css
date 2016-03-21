@@ -1,0 +1,54 @@
+/*1er cuadro*/
+
+.rojo {
+	width: 200px;
+	height: 200px;
+	margin: 50px;
+	background-color: red;
+}
+
+.purple {
+
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+
+.amarillo {
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+	position: absolute;
+	margin: auto;
+}
+
+/*2do cuadro*/
+
+#azul {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin-left: 50px;
+	position: relative;
+}
+
+#verde {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+#negro {
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	position: absolute;
+	top: -50px;
+	left: -50px;
+}
